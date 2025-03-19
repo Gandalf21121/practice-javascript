@@ -1,0 +1,11 @@
+.nav-link{
+    text-decoration:none;
+    color:green;
+    padding:20px;    
+}
+
+.nav-link:hover{
+    color:red;
+    background-color:blue;
+    border-radius: 15px;
+}
